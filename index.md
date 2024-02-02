@@ -12,6 +12,6 @@ Responsable for the development team
 
 
 ## Image html
-<a href="FotoPerfil.jpg"><img src="Profile Photo"></a>
+<a href=FotoPerfil.jpg><img src="Profile Photo"></a>
 ## Image markdown
-![Profile Photo]("FotoPerfil.jpg")
+![Profile Photo](FotoPerfil.jpg)
